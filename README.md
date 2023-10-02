@@ -3,13 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=Data+Scientist;Data+Engineer;Analytics+Engineer)](https://git.io/typing-svg)
 
 I'm a Data Scientist with experience as a Data Engineer and Software Engineer. My interest is in **finding and using data in a way that actually helps organizations make better decisions**. My proudest achievements are:
-- 🔧 Building from scratch the Data Architecture of a startup using Modern Data Stack tools (BigQuery, DBT, Airflow and Airbyte). The architecture and reasoning for the chosen tools are documented [here](https://medium.com/p/2b5a645efb40)
-- 📂 Created a set of data modeling layers, following [DBT best practices](https://docs.getdbt.com/guides/best-practices/how-we-structure/1-guide-overview) that allowed my company to have organized and documented data. My background in Software Engineering has motivated me to incorporate best practices from software development into the data stack. Best practices include: CI/CD, unit testing, integration testing, and light but robust data governance, which enables every collaborator to make changes in an agile manner while adhering to established conventions. See my article on DBT pre-commit [here](https://medium.com/@ignaciovi/improve-data-quality-in-dbt-with-dbt-checkpoint-dd9e37909790). 
-- 📊 Worked closely with every area of the business to identify data needs and deliver impactful solutions. Some examples of completed projects include: patient profiling, churn forecasting, item stock forecasting (time series), A/B testing, hypothesis testing, key metrics definition
-- 📚 Developed several side projects (with more in progress) out of a personal interest in specific topics or tools I wanted to learn. Below is a list of projects:
+- 🔧 Built the Data Architecture of a startup from scratch using Modern Data Stack tools (BigQuery, DBT, Airflow and Airbyte). The architecture and rationale for the chosen tools are documented [here](https://medium.com/p/2b5a645efb40)
+- 📂 Created a set of data modeling layers, following [DBT best practices](https://docs.getdbt.com/guides/best-practices/how-we-structure/1-guide-overview). This ensured our company had organized and documented data. My background in Software Engineering has motivated me to incorporate best practices from software development into the data stack. Best practices include: CI/CD, unit testing, integration testing, and light but robust data governance, which enables every collaborator to make changes in an agile manner while adhering to established conventions. See my article on DBT pre-commit [here](https://medium.com/@ignaciovi/improve-data-quality-in-dbt-with-dbt-checkpoint-dd9e37909790). 
+- 📊 Collaborated closely with every area of the business to identify data needs and deliver impactful solutions. Some examples of completed projects include: patient profiling, churn forecasting, item stock forecasting (time series), A/B testing, hypothesis testing, key metrics definition
+- 📚 Developed several side projects (with more in progress) fueled by my interest in specific topics or tools I wanted to learn. See the list of projects below:
 
 ## Side projects
-Here is a list of side projects I've developed:
 
 | Project                   | Description                                                                                                                                                                                                                | Stack                                                           | Repository                                             |
 |---------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|--------------------------------------------------------|
@@ -36,7 +35,7 @@ Here is a list of side projects I've developed:
 
 ## 🤔 Curious Things About Me
 - Guitar player and singer
-- I have an advanced certification in scuba diving
+- I have an advanced scuba diving certification
 
 
 ## Data quotes that I enjoy
