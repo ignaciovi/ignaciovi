@@ -33,16 +33,7 @@ I'm a Data Scientist with experience as a Data Engineer and Software Engineer. M
 
 </p>
 
-## 🤔 Curious Things About Me
+## 🤔 Things About Me
 - Guitar player and singer
 - I have an advanced scuba diving certification
-
-
-## Data quotes that I enjoy
-
->Most of the work we do in data is in an effort to reduce entropy — we model data to remove inaccuracies, we turn commonly asked questions into self-serve reports, and we funnel ad-hoc questions into a formalized request process. This kind of attitude is in our nature as data practitioners and largely serves us well. But in the case of driving decisions with data, we need to challenge our instincts and embrace the chaos. 
->
->Reducing entropy is 👏such 👏 a 👏 great 👏 way to describe the reality of data work at any reasonably large company. Data is not a “set it and forget it” kind of activity. Your dashboard will get stale in less than six months. Your key metrics will eventually have bad data in them. That machine learning model you spent all of last quarter developing will drift from its original fit. The environment in which your business operates is constantly changing, and so will the product or service that your business delivers. As a result, what is knowable about your business, about your product or service, is constantly changing too. And fast.
-
-[Source](https://roundup.getdbt.com/p/iterating-on-your-data-team)
 
